@@ -1,0 +1,39 @@
+body{
+    background-color: #222;
+}
+@import url('https://fonts.googleapis.com/css2?family=YourFontFamily&display=swap');
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'YourFontFamily', sans-serif;
+}
+#container {
+    
+    align-items: center;
+    text-align: center;
+}
+
+#text {
+    
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 8px;
+    border: none;
+    
+}
+
+.common {
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    color:white;
+    border: none;
+}
+button{
+    background-color:#FF8C00;
+}
+
+#submit{
+    background-color: gray;
+}
